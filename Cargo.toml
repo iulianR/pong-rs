@@ -5,4 +5,4 @@ authors = []
 edition = "2018"
 
 [dependencies]
-amethyst = { version = "0.11.0", features = ["vulkan"] }
+amethyst = { version = "0.11.0", features = ["vulkan", "nightly"] }
